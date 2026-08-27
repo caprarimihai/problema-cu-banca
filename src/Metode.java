@@ -10,6 +10,8 @@ public class Metode {
         victoria.procent=7.8;
 
         System.out.println( "NUme banca"+maib.name+ "Procentul acordat"+maib.procent+  "NUmarul de clienti"+maib.numDeClient);
+        System.out.println("Avem un exemplu de problema");
+        System.out.println("Hai sa adaugam clienti:");
     }
 
     String name;
