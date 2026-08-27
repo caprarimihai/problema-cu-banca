@@ -12,6 +12,7 @@ public class Metode {
         System.out.println( "NUme banca"+maib.name+ "Procentul acordat"+maib.procent+  "NUmarul de clienti"+maib.numDeClient);
         System.out.println("Avem un exemplu de problema");
         System.out.println("Hai sa adaugam clienti:");
+        System.out.println("Hai la hora");
     }
 
     String name;
